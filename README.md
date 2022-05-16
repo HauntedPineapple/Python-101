@@ -22,3 +22,12 @@ int x = 2 # Wrong
 x # Wrong, there must be data assigned
 x = 2 # Correct
 ```
+
+### Helpful links
+* [Python Website](https://www.python.org/)
+* [Python Documentation](https://docs.python.org/3/)
+* [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
+* [W3Schools Python Reference](https://www.w3schools.com/python/python_reference.asp)
+* [Matplotlib Documentation](https://matplotlib.org/)
+* [Numpy Documentation](https://numpy.org/doc/stable/index.html)
+* [Pygame Documentation](https://www.pygame.org/docs/)
